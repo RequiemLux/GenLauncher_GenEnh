@@ -1,0 +1,15 @@
+ModificationType: Mod
+Name: Generals Enhanced
+Version: 0.3
+SimpleDownloadLink: ''
+UIImageSourceLink: https://i.imgur.com/ZbT6spE.png
+DiscordLink: https://discord.gg/7NsTfDD
+ModDBLink: https://www.moddb.com/mods/cc-generals-enhanced
+NewsLink: ''
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: generalsenhanced
+S3FolderName: generalsenhanced
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
